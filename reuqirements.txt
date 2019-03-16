@@ -1,0 +1,4 @@
+pymysql
+rsa
+requests
+feedparser
