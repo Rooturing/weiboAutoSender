@@ -19,3 +19,5 @@
 + 添加定时任务 `0 12 * * * python ~/weiboAutoSender/main.py` 每天12:00准时爬取RSS上的消息并发微博
 
 更多详细过程分析，请查看文章[新浪微博登陆过程详解以及Python小程序实现](https://blog.ssssamaritan.xyz/2019/03/16/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E7%99%BB%E9%99%86%E8%BF%87%E7%A8%8B%E8%AF%A6%E8%A7%A3%E4%BB%A5%E5%8F%8APython%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0/)
+发送效果如下:
+![fig1](2.PNG)
